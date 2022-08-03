@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tienda-online/static/css/main.21bfd476.css",
-    "main.js": "/tienda-online/static/js/main.8b63a86e.js",
+    "main.css": "/tienda-online/static/css/main.e2bc82f1.css",
+    "main.js": "/tienda-online/static/js/main.ac7aa59b.js",
     "static/media/house12lg.png": "/tienda-online/static/media/house12lg.ac9d7673a85220c54330.png",
     "static/media/house10lg.png": "/tienda-online/static/media/house10lg.7cdefca31329de5e3f8a.png",
     "static/media/house11lg.png": "/tienda-online/static/media/house11lg.a88bde8ff3603b502d7d.png",
@@ -53,11 +53,11 @@
     "static/media/agent3.png": "/tienda-online/static/media/agent3.e10cfbea6a67f149dcdc.png",
     "static/media/logo.svg": "/tienda-online/static/media/logo.88314d080943306fb3247ed933bcc867.svg",
     "index.html": "/tienda-online/index.html",
-    "main.21bfd476.css.map": "/tienda-online/static/css/main.21bfd476.css.map",
-    "main.8b63a86e.js.map": "/tienda-online/static/js/main.8b63a86e.js.map"
+    "main.e2bc82f1.css.map": "/tienda-online/static/css/main.e2bc82f1.css.map",
+    "main.ac7aa59b.js.map": "/tienda-online/static/js/main.ac7aa59b.js.map"
   },
   "entrypoints": [
-    "static/css/main.21bfd476.css",
-    "static/js/main.8b63a86e.js"
+    "static/css/main.e2bc82f1.css",
+    "static/js/main.ac7aa59b.js"
   ]
 }
